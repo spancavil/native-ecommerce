@@ -48,7 +48,6 @@ const styles = StyleSheet.create({
         padding: 8
     },
     title: {
-        fontFamily: 'open-sans-bold'
     }
 })
 

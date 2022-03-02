@@ -15,7 +15,7 @@ const BreadItem = ({item, onSelectBread}) => {
                     <View style={styles.breadRow}>
                         <Text style={styles.title}>{item.title}</Text>
                     </View>
-                    <View style={styles.price}>
+                    <View>
                         <Text>$ {item.price}</Text>
                     </View>
                 </View>
@@ -37,9 +37,6 @@ const styles = StyleSheet.create({
     },
     title: {
         fontSize: 20
-    },
-    price: {
-        fontFamily: 'open-sans-bold'
     }
 })
 export default BreadItem

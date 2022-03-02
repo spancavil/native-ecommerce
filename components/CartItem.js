@@ -25,7 +25,6 @@ const styles = StyleSheet.create({
         padding: 8,
     },
     header: {
-        fontFamily: 'open-sans-bold'
     },
     detail: {
         flex: 1,
@@ -36,7 +35,6 @@ const styles = StyleSheet.create({
     },
     text: {
         fontSize: 16,
-        fontFamily: 'open-sans'
     }
 })
 

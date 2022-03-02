@@ -48,7 +48,6 @@ const styles = StyleSheet.create({
     },
     text: {
         fontSize: 24,
-        fontFamily: 'open-sans-bold',
     }
     
 })

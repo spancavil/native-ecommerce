@@ -44,7 +44,6 @@ const styles = StyleSheet.create({
     },
     price: {
         fontSize: 40,
-        fontFamily: 'open-sans-bold'
     },
     description: {
         fontSize: 20

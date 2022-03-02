@@ -106,12 +106,10 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 24,
-    fontFamily: "open-sans-bold",
     marginBottom: 18,
   },
   error: {
     fontSize: 16,
-    fontFamily: "open-sans-bold",
     margin: 8,
     color: 'red',
   },
